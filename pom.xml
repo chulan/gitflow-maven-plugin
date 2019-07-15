@@ -33,7 +33,7 @@
             <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
             <distribution>repo</distribution>
         </license>
-    </licenses> 
+    </licenses>
 
     <developers>
         <developer>
@@ -90,7 +90,7 @@
                     </reportSet>
                 </reportSets>
                 <configuration>
-                   <dependencyLocationsEnabled>false</dependencyLocationsEnabled>
+                    <dependencyLocationsEnabled>false</dependencyLocationsEnabled>
                 </configuration>
             </plugin>
         </plugins>
